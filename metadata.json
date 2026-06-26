@@ -1,0 +1,6 @@
+{
+  "name": "Finanzas",
+  "description": "Una aplicación de finanzas personales para registrar gastos, presupuestos mensuales y planeación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
